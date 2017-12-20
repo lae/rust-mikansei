@@ -1,0 +1,7 @@
+[package]
+name = "parse_scorers"
+version = "0.1.0"
+authors = ["lae <lae@lae.is>"]
+
+[dependencies]
+rusqlite = '*'

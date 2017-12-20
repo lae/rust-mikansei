@@ -1,0 +1,8 @@
+[package]
+name = "coinjam"
+version = "0.1.0"
+authors = ["Musee Ullah <lae@lae.is>"]
+
+[dependencies]
+primal = "0.2"
+num = "0.1.31"

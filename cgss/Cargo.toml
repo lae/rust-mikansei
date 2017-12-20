@@ -1,0 +1,13 @@
+[package]
+name = "cgss"
+version = "0.1.0"
+authors = ["Musee Ullah <musee.ullah@fireeye.com>"]
+
+[dependencies]
+hyper = '*'
+rmp = '*'
+rustc-serialize = '*'
+rust-crypto = { git = "https://github.com/lae/rust-crypto.git", branch = "cgss" }
+#rust-crypto = '*'
+rand = '*'
+itertools = '*'

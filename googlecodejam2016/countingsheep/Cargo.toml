@@ -1,0 +1,4 @@
+[package]
+name = "countingsheep"
+version = "0.1.0"
+authors = ["Musee Ullah <lae@lae.is>"]
